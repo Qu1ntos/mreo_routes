@@ -11,7 +11,7 @@
 ## Запуск локально
 
 ```bash
-cd route_map_builder_v9
+cd <каталог застосунку>
 python -m http.server 8000
 ```
 
